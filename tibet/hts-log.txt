@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Oct 2018 08:19:02 at file:///C:/Users/Ken/Desktop/Tibeb%20web/Index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" file:///C:/Users/Ken/Desktop/Tibeb%20web/Index.html -O1 "C:\My food\tibet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/arrow.png.ping (from file:///C:/Users/Ken/Desktop/Tibeb web/Index.html)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/wmfood2.TTF? (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/wmfood2.svg (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/alpha_echo.ttf? (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/alpha_echo.svg (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/images/top.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/images/line.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/images/shadow.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/images/external_link.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/arrow.png.ping (from file:///C:/Users/Ken/Desktop/Tibeb web/Index.html)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/wmfood2.TTF? (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/wmfood2.svg (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/alpha_echo.ttf? (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/alpha_echo.svg (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/images/top.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/images/line.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/images/shadow.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Warning: 	Retry after error -5 (Unable to open local file) at link file:///C:/Users/Ken/Desktop/Tibeb web/images/external_link.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Ken/Desktop/Tibeb web/arrow.png.ping (from file:///C:/Users/Ken/Desktop/Tibeb web/Index.html)
+08:19:03	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/wmfood2.TTF? (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/wmfood2.svg (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/alpha_echo.ttf? (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Ken/Desktop/Tibeb web/fonts/alpha_echo.svg (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Ken/Desktop/Tibeb web/images/top.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Ken/Desktop/Tibeb web/images/line.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Ken/Desktop/Tibeb web/images/shadow.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+08:19:03	Error: 	"Unable to open local file" (-5) after 2 retries at link file:///C:/Users/Ken/Desktop/Tibeb web/images/external_link.png (from file:///C:/Users/Ken/Desktop/Tibeb web/estifo.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 seconds : 43 links scanned, 16 files written (4751323 bytes overall) [0 bytes received at 0 bytes/sec]
+(9 errors, 18 warnings, 0 messages)
